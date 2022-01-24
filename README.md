@@ -15,15 +15,6 @@
 - 🎓
 **Bacharel em Ciência da Computação**
 
-***
-## 📊 &nbsp;Stats
-
-<div align="center">
-  <a href="https://github.com/ricardobad51">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobad51&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobad51&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 🛠 &nbsp;Tech Stack
 ### 👩‍💻 &nbsp;SO
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)&nbsp;
@@ -45,6 +36,14 @@
 ![PostreSQL](https://img.shields.io/badge/-PostreSQL-05122A?style=flat&logo=PostreSQL)&nbsp;
 
 
+***
+## 📊 &nbsp;Stats
+
+<div align="center">
+  <a href="https://github.com/ricardobad51">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobad51&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobad51&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!---
 ricardobad51/ricardobad51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
