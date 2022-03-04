@@ -1,4 +1,4 @@
-<h1 align="justify"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Sou dev JAVA/JSP/JSF/SQLServer/Aspirante a ReactJS </h1>
+<h1 align="justify"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Sou dev BackEnd JAVA</h1>
 <div align="center">
    <p>What you were afraid to do today will take the form of regret at the end of your life. I don't expect my path through life to be easy, just that the final destination is worth it. The past is like time, enjoy today's sun without thinking about yesterday's storm.</p>
 </div>
@@ -34,6 +34,7 @@
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostreSQL](https://img.shields.io/badge/-PostreSQL-05122A?style=flat&logo=PostreSQL)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 
 
 ***
